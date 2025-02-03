@@ -17,7 +17,7 @@ export default function TestimonoalArea() {
 
               <div className="testimonial-item wow fadeInUp delay-0-2s">
                 <div className="author">
-                  <img src="assets/images/testimonials/author1.jpg" alt="Author" />
+                  <img src="assets/images/avatar/client (1).png" alt="Author" />
                 </div>
                 <div className="text">
                   Financial planners help people to knowledge in about how to
@@ -35,7 +35,7 @@ export default function TestimonoalArea() {
 
               <div className="testimonial-item wow fadeInUp delay-0-4s">
                 <div className="author">
-                  <img src="assets/images/testimonials/author2.jpg" alt="Author" />
+                  <img src="assets/images/avatar/client (2).png" alt="Author" />
                 </div>
                 <div className="text">
                   Asian planners help people to knowledge in about how to
@@ -53,7 +53,7 @@ export default function TestimonoalArea() {
 
               <div className="testimonial-item wow fadeInUp delay-0-6s">
                 <div className="author">
-                  <img src="assets/images/testimonials/author3.jpg" alt="Author" />
+                  <img src="assets/images/avatar/client (3).png" alt="Author" />
                 </div>
                 <div className="text">
                   Hello  planners help people to knowledge in about how to
@@ -71,7 +71,7 @@ export default function TestimonoalArea() {
 
               <div className="testimonial-item wow fadeInUp delay-0-8s">
                 <div className="author">
-                  <img src="assets/images/testimonials/author4.jpg" alt="Author" />
+                  <img src="assets/images/avatar/client (4).png" alt="Author" />
                 </div>
                 <div className="text">
                   Financial planners help people to knowledge in about how to
@@ -89,7 +89,7 @@ export default function TestimonoalArea() {
 
               <div className="testimonial-item wow fadeInUp delay-0-9s">
                 <div className="author">
-                  <img src="assets/images/testimonials/author5.jpg" alt="Author" />
+                  <img src="assets/images/avatar/client (5).png" alt="Author" />
                 </div>
                 <div className="text">
                   Yelp  planners help people to knowledge in about how to

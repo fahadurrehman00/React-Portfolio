@@ -8,7 +8,7 @@ export default function HeroArea() {
             <div className="col-lg-12">
 
               <div className="hero-content wow fadeInUp text-center delay-0-2s">
-                <h2>Nino Walker</h2>
+                <h2>Fahad Ur Rehman</h2>
               </div>
 
             </div>
@@ -20,16 +20,19 @@ export default function HeroArea() {
                 <div className="clienti-reviews">
                   <ul className="clienti-profile">
                     <li>
-                      <img className="img-fluid" src="assets/images/avatar/01.jpg" alt="client" />
+                      <img className="img-fluid" src="assets/images/avatar/client (1).png" alt="client" />
                     </li>
                     <li>
-                      <img className="img-fluid" src="assets/images/avatar/02.jpg" alt="client" />
+                      <img className="img-fluid" src="assets/images/avatar/client (2).png" alt="client" />
                     </li>
                     <li>
-                      <img className="img-fluid" src="assets/images/avatar/03.jpg" alt="client" />
+                      <img className="img-fluid" src="assets/images/avatar/client (3).png " alt="client" />
+                    </li>
+                    <li>
+                      <img className="img-fluid" src="assets/images/avatar/client (4).png " alt="client" />
                     </li>
                   </ul>
-                  <div className="reviews">100+ reviews <span>(4.96 of 5)</span>
+                  <div className="reviews">50+ reviews <span>(4.46 of 5)</span>
                     <p>Five-star reviews from my esteemed clients.</p>
                   </div>
                 </div>
@@ -44,7 +47,7 @@ export default function HeroArea() {
             </div>
             <div className="col-lg-3 pt-30">
               <div className="hero-content wow fadeInUp delay-0-4s">
-                <p>Hi, I’m Walker, a passionate UX Designer dedicated to creating user-friendly digital experiences.</p>
+                <p>Hi, I’m Fahad, a dedicated Frontend Developer. Skilled in building responsive, user-friendly web applications, and mobile applications using modern frameworks.</p>
                 <a className="theme-btn" href="">Get In touch</a>
               </div>
 
