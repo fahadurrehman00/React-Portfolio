@@ -66,13 +66,12 @@ export default function HeroArea() {
                 </p>
                 <div>
                   <a
-                  target="blank"
                     className='theme-btn'
                     href='mailto:fahad00rehman@gmail.com'
                   >
                     Get In touch
                   </a>
-                  <a className='theme-btn' target="blank" href={Resume}>
+                  <a className='theme-btn' target='blank' href={Resume}>
                     Get Resume
                   </a>
                 </div>
